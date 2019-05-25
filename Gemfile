@@ -5,7 +5,7 @@ ruby '2.5.5'
 # Mongoid is an ODM (Object Document Mapper) Framework for MongoDB, written in Ruby.
 gem 'mongoid', '~> 6.1.0'
 
-gem 'sqlite3', '~> 1.3', '>= 1.3.11'
+# gem 'sqlite3', '~> 1.3', '>= 1.3.11'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
 # Use Puma as the app server
